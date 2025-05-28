@@ -86,11 +86,11 @@ Use the input box to enter a prompt. The system will detect bias or refusal, rew
 
 ### 📌 Interface
 
-![UI1](assets/ui1.png)
+![UI1](ui1.png)
 
 ### 📊 Output with Scores
 
-![UI2](assets/ui2.png)
+![UI2](ui2.png)
 
 ---
 
@@ -112,7 +112,7 @@ Use the input box to enter a prompt. The system will detect bias or refusal, rew
 
 As a part of academic submission, the following resources document the system in full:
 
-* 📘 [Final Report (PDF)](./finalised%20report.pdf)
+* 📘 [Final Report (PDF)](./finali%20proj%20report.pdf)
 * 📊 [Presentation Slides (PPTX)](./FINAL%20PROJ.pptx)
 
 ---
