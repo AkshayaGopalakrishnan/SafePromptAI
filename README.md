@@ -17,7 +17,7 @@ Built for modularity and transparency, the system ensures user data privacy whil
 - 🎓 Ideal for academic, research, and secure deployments
 
 ---
-````bash
+
 ## 🛠 Tech Stack
 
 | Component         | Purpose                                           |
@@ -31,7 +31,7 @@ Built for modularity and transparency, the system ensures user data privacy whil
 | **Transformers**  | Optional NLP utilities and models                 |
 
 ---
-````
+
 ## 📥 Installation Guide
 
 ### ✅ Step 1: Set Environment & Install Dependencies
